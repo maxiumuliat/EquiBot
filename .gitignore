@@ -1,0 +1,11 @@
+# Dossiers de compilation
+Debug/
+Release/
+# Fichiers binaires et temporaires
+*.o
+*.elf
+*.hex
+*.bin
+*.lss
+*.map
+.vs/
